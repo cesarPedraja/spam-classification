@@ -22,5 +22,5 @@ This project builds a binary text classifier to distinguish **spam** from **ham 
 The final validation accuracy for each regularization type is displayed in a bar chart, with clear visual differentiation and numeric labels.
 
 <p align="center">
-  <img src="images/validation_accuracy_comparison.png" width="600" alt="Accuracy Plot">
+  <img src="validation_accuracy_comparison.png" width="600" alt="Accuracy Plot">
 </p>
